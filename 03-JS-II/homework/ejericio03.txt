@@ -1,0 +1,16 @@
+## Instrucciones
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo 
+estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu 
+comprensión.
+
+* `for`
+La palabra for se usa para desarrollar una formula dentro de un parametro determinado, significa para o por cada elemento
+dentro de un párametro determinado se ejecutarán los procesos u acciones que se establecen en esa función 
+
+* `&&`, `||`, `!`
+Estos son simbolos que se usan en las funciones para determianr ciertas condiciones que se deben cumplir para que 
+se ejecuten otras acciones. La primera es Y y significa que todas las condiciones deben cumplirse para que se 
+ejecute la función. La segunda es que O y significa que alguna condición debe cumplirse para que se 
+ejecute la función. La tercera es NO y significa que para cumplirse no debe ser esa condición (es como el mundo del 
+reves) para que se ejecute la función.

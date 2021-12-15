@@ -1,0 +1,25 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente 
+cualquier agujero en tu comprensión.
+
+	* Variables
+	Las variables son como cajitas donde se guardan cosas. Se pueden guardar letras que se llaman Strings, numeros y 
+	algo que se llama booleano porque puede ser verdadero (se dice true) o falso (se dice false). Estas cajitas 
+	pueden estar vacías y pueden tener dotros datos muy raros que se son null y undefined. Todas las cajitas deben 
+	tener un nombre que debe segir ciertas reglas 
+	* Strings
+	Los String son un tipo de dato que significa texto para la máquina, se debe escribir entre comillas (simples
+	o dobles) y puede ser una letra, un número, un signo o palabras, siempre y cuando este entre comillas
+	* Funciones (argumentos, `return`)
+	Las funciones son instrucciones (conjunto de órdenes) que se ejecutan o funcionan cuando se las invoca, Las 
+	funciones tienen argumentos que son variables que se les solicita al que llama la función para que ésta se
+	ejecute o funcione. a su vez las funciones retornan algún resultado producto de las órdenes que contiene en su
+	armado y definición pero puede ser que estén vacias por el momento  
+	* Declaraciones `if`
+	La palabra if pertenece a una serie de instrucciones que se colocan dentro de una función que permiten evaluar
+	si una condición es verdadera o falsa y en función de ello se ejecutan o no otras instrucciones que estan al 
+	pendiente de este resultado. 
+	* Valores booleanos (`true`, `false`)
+	Los valores booleanos son aquello que te indican si algo es verdad o falso de acuerdo a la condición que le 
+	proponemos al sistema, se usa mucho en fórmulas pero también se puede guardar en una variable para que asuma
+	ese valor
