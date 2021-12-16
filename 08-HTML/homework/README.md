@@ -39,7 +39,7 @@ II Añade un poco de estilo
 ```
 
 ```
-III. Cree una hoja de estilo externa y mueva todas las reglas de estilo anteriores a la nueva hoja de estilo.
+III..032 Cree una hoja de estilo externa y mueva todas las reglas de estilo anteriores a la nueva hoja de estilo.
   A. Cree un archivo llamado styles.css en esta carpeta.
   B. COPIE todas sus reglas de estilo en este nuevo archivo.
   C. Agregue una etiqueta de enlace a su html que importe su nuevo archivo css.
