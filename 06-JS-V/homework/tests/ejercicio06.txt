@@ -1,0 +1,12 @@
+## Instrucciones
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo
+ estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu 
+ comprensión.
+
+* `prototype`
+Prototype es un metodo que tienen las clases para ahorrar espacio de memoria y evitar repetir metodos
+con ella se determina una función a la cual puede accederse a todos los objetos de esa clase. Todos los objetos tiene 
+prototype y permite heredar las propiedas de otros objetos
+* _Constructors_ (de Clases)
+Son funciones que permiten crear nuevos objetos a partir de una base de la cual hereda todas sus propiedades
